@@ -2,4 +2,4 @@
 *.ppk
 *.tfstate*
 *.tfvars
-*.terraform/
+.terraform/
